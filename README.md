@@ -175,3 +175,10 @@ Developed as a technical project for the AI/ML Engineer Intern opportunity at Cy
 **Project:** Cynbit LeadIQ  
 **Category:** Artificial Intelligence / Machine Learning  
 **Status:** Working Prototype
+
+
+## 🖥️ Dashboard Design Preview
+
+The following image presents the visual design concept of Cynbit LeadIQ.
+
+![Cynbit LeadIQ Dashboard Design](screenshots/dashboard-design-preview.png)
