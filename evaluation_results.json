@@ -1,0 +1,114 @@
+{
+    "total_test_cases": 3,
+    "total_fields": 15,
+    "correct_fields": 15,
+    "incorrect_fields": 0,
+    "field_extraction_accuracy": 100.0,
+    "results": [
+        {
+            "test_case": 1,
+            "field": "industry",
+            "expected": "Healthcare",
+            "actual": "Healthcare",
+            "correct": true
+        },
+        {
+            "test_case": 1,
+            "field": "service",
+            "expected": "Website Development",
+            "actual": "Website Development",
+            "correct": true
+        },
+        {
+            "test_case": 1,
+            "field": "location",
+            "expected": "Pune",
+            "actual": "Pune",
+            "correct": true
+        },
+        {
+            "test_case": 1,
+            "field": "budget",
+            "expected": "40000",
+            "actual": "40000",
+            "correct": true
+        },
+        {
+            "test_case": 1,
+            "field": "timeline",
+            "expected": "1 month",
+            "actual": "1 month",
+            "correct": true
+        },
+        {
+            "test_case": 2,
+            "field": "industry",
+            "expected": "Fitness",
+            "actual": "Fitness",
+            "correct": true
+        },
+        {
+            "test_case": 2,
+            "field": "service",
+            "expected": "AI Automation",
+            "actual": "AI Automation",
+            "correct": true
+        },
+        {
+            "test_case": 2,
+            "field": "location",
+            "expected": "Mumbai",
+            "actual": "Mumbai",
+            "correct": true
+        },
+        {
+            "test_case": 2,
+            "field": "budget",
+            "expected": "50000",
+            "actual": "50000",
+            "correct": true
+        },
+        {
+            "test_case": 2,
+            "field": "timeline",
+            "expected": "2 months",
+            "actual": "2 months",
+            "correct": true
+        },
+        {
+            "test_case": 3,
+            "field": "industry",
+            "expected": "Education",
+            "actual": "Education",
+            "correct": true
+        },
+        {
+            "test_case": 3,
+            "field": "service",
+            "expected": "Mobile App Development",
+            "actual": "Mobile App Development",
+            "correct": true
+        },
+        {
+            "test_case": 3,
+            "field": "location",
+            "expected": "Pune",
+            "actual": "Pune",
+            "correct": true
+        },
+        {
+            "test_case": 3,
+            "field": "budget",
+            "expected": "100000",
+            "actual": "100000",
+            "correct": true
+        },
+        {
+            "test_case": 3,
+            "field": "timeline",
+            "expected": "3 months",
+            "actual": "3 months",
+            "correct": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "CYN001",
+    "category": "company_overview",
+    "title": "About Cynbit",
+    "content": "Cynbit is a technology company based in Jaipur, India. It focuses on AI automation, autonomous AI agents, custom software development, cloud solutions, and digital marketing. Its approach covers discovery, strategy, design, implementation, quality assurance, and deployment.",
+    "source": "Official Cynbit homepage"
+  },
+  {
+    "id": "CYN002",
+    "category": "services",
+    "title": "AI and Automation Services",
+    "content": "Cynbit offers autonomous AI agents for lead handling and coordination, LLM-based automation for manual data entry and document handling, AI voice agents, AI stack integration, CRM automation, and funnel optimization.",
+    "source": "Official Cynbit services page"
+  },
+  {
+    "id": "CYN003",
+    "category": "software_development",
+    "title": "Custom Software and Development",
+    "content": "Cynbit provides custom software and full-stack development services, along with cloud-related solutions. These services can support businesses that need tailored digital products and technical systems.",
+    "source": "Official Cynbit homepage and services page"
+  },
+  {
+    "id": "CYN004",
+    "category": "products",
+    "title": "Cynbit Products",
+    "content": "Cynbit's product ecosystem includes Cynbit Studio, Revio, TenantEase, and BitElevate. Cynbit Studio includes coding practice, AI code review, career tools, and progress tracking.",
+    "source": "Official Cynbit homepage and products information"
+  },
+  {
+    "id": "CYN005",
+    "category": "contact_process",
+    "title": "Project Inquiry Process",
+    "content": "Cynbit's contact page invites prospective clients to describe their projects. The company states that its team analyzes requirements and prepares a tailored strategic overview before connecting with the prospective client.",
+    "source": "Official Cynbit contact page"
+  },
+  {
+    "id": "CYN006",
+    "category": "project_lifecycle",
+    "title": "Project Delivery Approach",
+    "content": "Cynbit describes a project lifecycle that includes discovery and audit, strategy, design, implementation, quality assurance, and deployment.",
+    "source": "Official Cynbit homepage"
+  }
+]
