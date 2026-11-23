@@ -62,7 +62,7 @@ Cynbit-LeadIQ/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Cynbit-LeadIQ.git
+git clone https://github.com/soham2142/Cynbit-LeadIQ.git
 cd Cynbit-LeadIQ
 ```
 
